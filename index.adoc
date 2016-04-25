@@ -5,10 +5,16 @@ v0.0.2, 2016-06-01
 :doctype: book
 :toc:
 :toclevels: 3
-:source-highlighter: prettify
+:source-highlighter: coderay
 :encoding: utf-8
+//==== placeholders
+:spring-boot: 스프링부트
+
+{spring-boot} 는 스프링프레임워크를 기반으로 하는
 
 //==============================================================================
+***
+
 include::chap01.adoc[]
 
 ***
@@ -38,4 +44,6 @@ include::reference.adoc[]
 ***
 
 include::appendix.adoc[]
+
+***
 //==============================================================================
